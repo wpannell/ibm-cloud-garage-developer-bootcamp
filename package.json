@@ -12,13 +12,13 @@
     "slack:lint": "yamllint .bluemix/slack.yml",
     "toolchain:lint": "yamllint .bluemix/toolchain.yml"
   },
-  "homepage": "https://github.com/oneibmcloud/ibm-cloud-garage-developer-bootcamp#readme",
+  "homepage": "https://github.com/wpannell/ibm-cloud-garage-developer-bootcamp#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oneibmcloud/ibm-cloud-garage-developer-bootcamp.git"
+    "url": "git+https://github.com/wpannell/ibm-cloud-garage-developer-bootcamp.git"
   },
   "bugs": {
-    "url": "https://github.com/oneibmcloud/ibm-cloud-garage-developer-bootcamp/issues"
+    "url": "https://github.com/wpannell/ibm-cloud-garage-developer-bootcamp/issues"
   },
   "keywords": [
     "node"
